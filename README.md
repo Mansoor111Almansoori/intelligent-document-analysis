@@ -115,7 +115,14 @@ Each document is divided into chunks to allow efficient retrieval of relevant in
 
 ## 🎥 Demo
 
-<iframe src="https://drive.google.com/file/d/11nVEQpNfdZ12GOGpcOgoYZYs-5HQgNih/preview" width="640" height="360" allow="autoplay"></iframe>
+A quick demo showing:
+- Uploading a PDF  
+- Asking a question  
+- Getting an AI-generated answer  
+
+👉 **[Watch Demo](https://drive.google.com/file/d/11nVEQpNfdZ12GOGpcOgoYZYs-5HQgNih/view)**
+
+---
 
 ## 🚧 Current Limitations
 
