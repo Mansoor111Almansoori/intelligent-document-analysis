@@ -99,10 +99,17 @@ Each document is divided into chunks to allow efficient retrieval of relevant in
 
 ## 📸 Screenshots
 
-*(Add screenshots here later)*  
-- Login Page  
-- Upload Interface  
-- Q&A Interface  
+### 🔐 Login Page
+![Login](images/login.jpg)
+
+### 📤 Upload Interface
+![Upload](images/upload.jpg)
+
+### 💬 Q&A Interface
+![Q&A](images/Q%26A.jpg)
+
+### 💬 Another Example
+![Q&A Example](images/Q%26A%202.jpg)
 
 ---
 
