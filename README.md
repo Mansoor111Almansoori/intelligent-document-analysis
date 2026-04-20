@@ -113,6 +113,10 @@ Each document is divided into chunks to allow efficient retrieval of relevant in
 
 ---
 
+## 🎥 Demo
+
+<iframe src="https://drive.google.com/file/d/11nVEQpNfdZ12GOGpcOgoYZYs-5HQgNih/preview" width="640" height="360" allow="autoplay"></iframe>
+
 ## 🚧 Current Limitations
 
 - Answers are displayed without highlighted evidence  
